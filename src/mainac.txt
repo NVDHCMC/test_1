@@ -1,0 +1,37 @@
+/*
+ * main.c
+ *
+ *  Created on: Jul 29, 2017
+ *      Author: Administrator
+ */
+
+#include <stddef.h>
+#include "stm32f10x.h"
+#include "ADCT_BGS_FPT_Delay.h"
+#include "HardwareCfg.h"
+#include "PZEM004T.h"
+typedef struct
+{
+	float voltage;
+	float current;
+	float energy;
+	float power;
+}AC_Value;
+AC_Value AC_val;
+uint8_t IP_addr[4] = {192,168,1,1};
+int main(void)
+{
+	ADCT_PZEM004T_Init(9600);
+	ADCT_BGS_Systick_Init();
+	TM_DELAY_Init();
+	ADCT_PZEM004T_setAddress(IP_addr);
+	ADCT_PZEM004T_setPowerAlarm(IP_addr, 50);
+	while(1)
+	{
+		AC_val.voltage = ADCT_PZEM004T_getVoltage(IP_addr);
+		AC_val.current = ADCT_PZEM004T_getCurrent(IP_addr);
+		AC_val.power = ADCT_PZEM004T_getPower(IP_addr);
+		AC_val.energy = ADCT_PZEM004T_getEnergy(IP_addr);
+		HAL_Delay(1000);
+	}
+}

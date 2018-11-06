@@ -1,0 +1,10 @@
+ADCT_BGS_State.c:71:6:ADCT_BGS_StateManger	8	static
+ADCT_BGS_State.c:127:6:ADCT_BGS_GetCurrentRTCData	8	static
+ADCT_BGS_State.c:131:6:ADCT_BGS_SwitchAIR_TimeCal	8	static
+ADCT_BGS_State.c:169:6:ADCT_BGS_CheckMinSwitchAIR1_2	4	static
+ADCT_BGS_State.c:192:6:ADCT_BGS_CheckMinSwitchAIR3_4	4	static
+ADCT_BGS_State.c:215:6:ADCT_BGS_CheckBuzzerTimerRun	8	static
+ADCT_BGS_State.c:244:6:ADCT_BGS_CheckDelayOfftime	4	static
+ADCT_BGS_State.c:268:6:ADCT_BGS_CheckTminFan	4	static
+ADCT_BGS_State.c:292:6:ADCT_BGS_AlarmBuzzer	8	static
+ADCT_BGS_State.c:318:6:ADCT_IO_FPT_GetValue	16	static

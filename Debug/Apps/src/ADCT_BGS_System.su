@@ -1,0 +1,7 @@
+ADCT_BGS_System.c:77:6:ADCT_SYSTEM_FPT_Init	16	static
+ADCT_BGS_System.c:90:6:ADCT_SYSTEM_FPT_CheckState_MODBUS	4	static
+ADCT_BGS_System.c:235:6:ADCT_SYSTEM_FPT_CheckState_IO	4	static
+ADCT_BGS_System.c:346:6:ADCT_SYSTEM_FPT_CheckState_DHT	4	static
+ADCT_BGS_System.c:447:9:ADCT_SystemFPT_CheckAlarm	4	static
+ADCT_BGS_System.c:470:9:ADCT_SystemFPT_CheckAlarm_Siren	4	static
+ADCT_BGS_System.c:486:6:ADCT_SystemFPT_RunOutput	40	static

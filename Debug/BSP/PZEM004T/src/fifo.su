@@ -1,0 +1,4 @@
+fifo.c:49:9:FIFO_Add	16	static
+fifo.c:69:9:FIFO_Push	16	static
+fifo.c:94:9:FIFO_Pop	16	static
+fifo.c:116:9:FIFO_IsEmpty	16	static

@@ -1,0 +1,15 @@
+core_cm3.h:1390:22:NVIC_SetPriority	16	static
+core_cm3.h:1517:26:SysTick_Config	16	static
+ADCT_BGS_FPT_Delay.c:15:6:ADCT_BGS_Systick_Init	8	static
+ADCT_BGS_FPT_Delay.c:34:10:TM_DELAY_Init	16	static
+ADCT_BGS_FPT_Delay.c:64:19:TM_DELAY_TimerCreate	32	static
+ADCT_BGS_FPT_Delay.c:95:6:TM_DELAY_TimerDelete	32	static
+ADCT_BGS_FPT_Delay.c:139:19:TM_DELAY_TimerStop	16	static
+ADCT_BGS_FPT_Delay.c:147:19:TM_DELAY_TimerStart	16	static
+ADCT_BGS_FPT_Delay.c:155:19:TM_DELAY_TimerReset	16	static
+ADCT_BGS_FPT_Delay.c:163:19:TM_DELAY_TimerAutoReloadCommand	16	static
+ADCT_BGS_FPT_Delay.c:171:19:TM_DELAY_TimerAutoReloadValue	16	static
+ADCT_BGS_FPT_Delay.c:185:10:TimerGetUS	4	static
+ADCT_BGS_FPT_Delay.c:194:6:HAL_IncTick	16	static
+ADCT_BGS_FPT_Delay.c:239:6:HAL_Delay	24	static
+ADCT_BGS_FPT_Delay.c:264:10:HAL_GetTick	4	static

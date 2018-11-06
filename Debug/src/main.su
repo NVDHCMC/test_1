@@ -1,0 +1,6 @@
+core_cm3.h:1478:22:NVIC_SystemReset	4	static
+main.c:83:5:main	16	static
+main.c:168:6:Simulation_data_BE	4	static
+main.c:183:6:ADCT_BGS_Initialize_system	8	static
+main.c:245:6:ADCT_BGS_Factory_Reset	8	static
+main.c:294:6:Restart_DHT22	8	static

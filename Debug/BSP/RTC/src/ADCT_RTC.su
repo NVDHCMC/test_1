@@ -1,0 +1,17 @@
+core_cm3.h:1360:22:NVIC_ClearPendingIRQ	16	static
+ADCT_RTC.c:31:6:RTC_Configuration	16	static
+ADCT_RTC.c:118:6:SummerTimeCorrection	16	static
+ADCT_RTC.c:283:6:RTC_RCC_Configuration	16	static
+ADCT_RTC.c:341:6:ADCT_BGS_RTC_Init	8	static
+ADCT_RTC.c:367:6:SetTime	24	static
+ADCT_RTC.c:383:6:ADCT_BGS_SetTime	24	static
+ADCT_RTC.c:397:6:SetDate	24	static
+ADCT_RTC.c:422:6:ADCT_BGS_Setting_Date_Time	16	static
+ADCT_RTC.c:427:6:ADCT_BGS_Run_RTC	24	static
+ADCT_RTC.c:446:6:DateUpdate	8	static
+ADCT_RTC.c:531:9:CheckLeap	16	static
+ADCT_RTC.c:558:10:WeekDay	32	static
+ADCT_RTC.c:587:6:DisplayTime	8	static
+ADCT_RTC.c:604:6:CheckForDaysElapsed	24	static
+ADCT_RTC.c:629:6:RTC_NVIC_Configuration	16	static
+ADCT_RTC.c:648:6:RTC_IRQHandler	16	static

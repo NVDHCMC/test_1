@@ -1,0 +1,10 @@
+ADCT_BGS_Bare_state.c:20:6:adct_bgs_choose_views	4	static
+ADCT_BGS_Bare_state.c:28:6:adct_bgs_enter_parameter	4	static
+ADCT_BGS_Bare_state.c:32:6:adct_bgs_choose_datalog	4	static
+ADCT_BGS_Bare_state.c:40:6:adct_bgs_runstate_idle	4	static
+ADCT_BGS_Bare_state.c:48:6:adct_bgs_runstate_alarm	4	static
+ADCT_BGS_Bare_state.c:57:6:adct_bgs_view_datalog	4	static
+ADCT_BGS_Bare_state.c:111:6:BUTTON_ENTER_Callback	16	static
+ADCT_BGS_Bare_state.c:122:7:BUTTON_CANCEL_Callback	16	static
+ADCT_BGS_Bare_state.c:132:7:BUTTON_UP_Callback	16	static
+ADCT_BGS_Bare_state.c:142:7:BUTTON_DOWN_Callback	16	static

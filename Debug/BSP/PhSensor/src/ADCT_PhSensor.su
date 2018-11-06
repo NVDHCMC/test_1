@@ -1,0 +1,5 @@
+ADCT_PhSensor.c:14:6:ADCT_PhSensorInit	32	static
+ADCT_PhSensor.c:58:8:ADCT_Ph_getValue	32	static
+ADCT_PhSensor.c:79:8:avergearray	48	static
+ADCT_PhSensor.c:119:6:ADCT_Ph_GetSample	24	static
+ADCT_PhSensor.c:135:10:ADCT_Ph_GetStatus	4	static

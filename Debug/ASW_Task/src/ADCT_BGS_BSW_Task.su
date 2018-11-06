@@ -1,0 +1,8 @@
+ADCT_BGS_BSW_Task.c:13:6:ADCT_BGS_ASW_100ms_TaskHandler	16	static
+ADCT_BGS_BSW_Task.c:21:6:ADCT_BGS_ASW_100ms_Init	16	static
+ADCT_BGS_BSW_Task.c:26:6:ADCT_BGS_ASW_10ms_TaskHandler	16	static
+ADCT_BGS_BSW_Task.c:33:6:ADCT_BGS_ASW_1ms_TaskHandler	16	static
+ADCT_BGS_BSW_Task.c:40:6:ADCT_BGS_ASW_1s_TaskHandler	16	static
+ADCT_BGS_BSW_Task.c:47:6:ADCT_BGS_ASW_10ms_Init	16	static
+ADCT_BGS_BSW_Task.c:53:6:ADCT_BGS_ASW_1ms_Init	16	static
+ADCT_BGS_BSW_Task.c:59:6:ADCT_BGS_ASW_1s_Init	16	static

@@ -1,0 +1,12 @@
+ADCT_BGS_Modbus.c:66:14:ADCT_BGS_MODBUS_RS485_Init	24	static
+ADCT_BGS_Modbus.c:74:13:ADCT_BGS_MODBUS_RS485_UpdateHoldingReg	16	static
+ADCT_BGS_Modbus.c:78:13:ADCT_AC_MODBUS_UpdateData	16	static
+ADCT_BGS_Modbus.c:99:13:ADCT_PH_MODBUS_UpdateData	24	static
+ADCT_BGS_Modbus.c:106:6:ADCT_BGS_MODBUS_RS485_UpdateData	8	static
+ADCT_BGS_Modbus.c:194:6:ADCT_BGS_MODBUS_Get_BE_DKG_Data	4	static
+ADCT_BGS_Modbus.c:219:6:ADCT_BGS_MODBUS_GetSetting	24	static
+ADCT_BGS_Modbus.c:354:14:eMBRegInputCB	16	static
+ADCT_BGS_Modbus.c:362:14:eMBRegHoldingCB	32	static
+ADCT_BGS_Modbus.c:396:14:eMBRegCoilsCB	24	static
+ADCT_BGS_Modbus.c:405:14:eMBRegDiscreteCB	16	static
+ADCT_BGS_Modbus.c:413:6:ADCT_SendDebugData	4	static

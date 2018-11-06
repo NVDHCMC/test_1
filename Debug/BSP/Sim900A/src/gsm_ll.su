@@ -1,0 +1,4 @@
+gsm_ll.c:34:9:GSM_LL_Init	0	static
+gsm_ll.c:43:9:GSM_LL_SendData	0	static
+gsm_ll.c:50:9:GSM_LL_SetReset	0	static
+gsm_ll.c:61:9:GSM_LL_SetRTS	0	static
